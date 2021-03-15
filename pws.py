@@ -117,5 +117,3 @@ elif counter > 5:
 elif counter > 1:
     print("Wow, that was over before it started!")
 print("Please drive home safely.")
-
-print(counter)
